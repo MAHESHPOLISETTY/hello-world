@@ -10,6 +10,10 @@
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 
+    <label for="phn"><b>Mobile number</b></label>
+    <input type="text" placeholder="Enter moile number" name="phn" required>
+
+
 
 
     <label>
