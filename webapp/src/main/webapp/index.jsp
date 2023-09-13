@@ -13,7 +13,7 @@
     <label for="phn"><b>Mobile number</b></label>
     <input type="text" placeholder="Enter moile number" name="phn" required>
 
-    <label><b> <img src="rohit Sharma" alt="ROHIT"></img></b>
+    <label><b> <img src="Rohit_Sharma.jpg" alt="ROHIT"></img></b>
      </label>
     
 
