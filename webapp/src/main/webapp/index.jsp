@@ -19,10 +19,6 @@
     <label><b> <img src="HITMAN.jpg" alt="ROHIT"></img></b>
      </label>
     
-
-
-
-
     <label>
       <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
     </label>
