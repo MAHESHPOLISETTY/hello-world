@@ -10,9 +10,6 @@
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 
-    <label for="DOB"><b>DOB</b></label>
-    <input type="DOB" placeholder="Enter dateofbirth" name="DOB" required>
-
     <label for="phn"><b>Mobile number</b></label>
     <input type="text" placeholder="Enter moile number" name="phn" required>
 
