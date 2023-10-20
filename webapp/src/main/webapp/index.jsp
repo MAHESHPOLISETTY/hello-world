@@ -8,12 +8,12 @@
     <input type="text" placeholder="Enter Name" name="name" required>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter after changing and conecting" name="psw" required>
+    <input type="password" placeholder="Enter after pollscm" name="psw" required>
 
     <label for="phn"><b>Mobile number</b></label>
-    <input type="text" placeholder="Enter moile number" name="phn" required>
+    <input type="text" placeholder="every 5min poll scm" name="phn" required>
 
-    <label><b> <img src="HITMAN.jpg" alt="ROHIT"></img></b>
+    <label><b> <img src="HITMAN.jpg" alt="every 5min poll scm"></img></b>
      </label>
     
     <label>
